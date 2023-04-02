@@ -10,12 +10,13 @@ export default [
     },
 
     {
-        question: "(UFU-MG) Sobre Iracema, de José de Alencar, podemos dizer que: 1) as cenas de amor carnal entre Iracema e Martim são de tal forma construídas que o leitor as percebe com vivacidade, porque tudo é narrado de forma explícita.2) em Iracema temos o nascimento lendário do Ceará, a história de amor entre Iracema e Martim e as manifestações de ódio das tribos tabajara e potiguara. 3) Moacir é o filho nascido da união de Iracema e Martim. De maneira simbólica ele representa o homem brasileiro, fruto do índio e do branco.4) a linguagem do romance Iracema é altamente poética, embora o texto esteja em prosa. Alencar consegue belos efeitos lingüísticos ao abusar de imagens sobre imagens, comparações sobre comparações.",     
+        question: "O projeto literário de ........ consistia em “radiografar” o Brasil em sua totalidade. Assim, narrou o passado indígena, em ........, a sociedade burguesa fluminense do século XIX, em ........, e o mundo rural em ........ .",     
         answers: [
-          { option: "se apenas 2 e 4 estiverem corretas.", correct: false },
-          { option: "se apenas 2 e 3 estiverem corretas. ", correct: false },
-          { option: "se 2, 3 e 4 estiverem corretas. Leia mais:", correct: true },
-          { option: "se 1, 3 e 4 estiverem corretas.", correct: false},
+          { option: " José de Alencar – A Moreninha – Til – Iracema", correct: false },
+          { option: " Joaquim Manuel de Macedo – Iracema– Senhora – A Moreninha", correct: false },
+          { option: " Joaquim Manuel de Macedo – Iracema–A Moreninha – Til", correct: false },
+          { option: " José de Alencar – Til– A Moreninha – Senhora", correct: false},
+          { option: " José de Alencar – Iracema– Senhora– Til", correct: true},
         ],
       },
 
@@ -45,7 +46,6 @@ export default [
           { option: " A relevância da obra de José de Alencar no contexto romântico decorre, em grande parte, da idealização dos elementos considerados como genuinamente brasileiros, notadamente a natureza e o índio. Essa atitude impulsionou o nacionalismo nascente, por ser uma forma de reação política, social e literária contra Portugal..", correct: false },
           { option: " Ao lado de O guarani e Ubirajara, Iracema representa um mito de fundação do Brasil. Nessas obras, a descrição da natureza brasileira possui inúmeras funções, com destaque para a 'cor local', isto é, o elemento particular que o escritor imprimia à literatura, acreditando contribuir para a sua nacionalização. ", correct: true },
           { option: " Embora tendo sido escrito no período romântico, Iracema apresenta traços da ficção naturalista tanto na criação das personagens quanto na tematização dos problemas do país.", correct: true },
-          { option: " A leitura de Iracema revela a importância do índio na literatura romântica. Entretanto, sabe-se que a presença do índio não se restringiu a esse contexto literário, tendo desembocado inclusive no Modernismo, por intermédio de escritores como Mário de Andrade e Oswald de Andrade.", correct: false},
         ],
       },
     {
